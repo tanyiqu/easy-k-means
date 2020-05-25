@@ -1,3 +1,6 @@
+# 代码参考 https://blog.csdn.net/caoIjun/article/details/81383192
+# 算法部分我没有改动，使用的数据是我自己准备的
+
 import math
 import matplotlib.pyplot as plt
 import random
